@@ -64,7 +64,7 @@ const theme = createTheme({
       @font-face {
           font-family: "Mono";
           font-weight: 250;
-          src: url('/tools/Mono.ttf') format("truetype");
+          src: url('/Mono.ttf') format("truetype");
           font-display: swap;
       }
       * {
