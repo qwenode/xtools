@@ -4,8 +4,8 @@ import { SvgIcon, SvgIconProps } from '@mui/material';
 export const Copy = (props: SvgIconProps) => {
   return (
     <SvgIcon {...props} viewBox='0 0 12 12'>
-      <g id='百川' stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
-        <g id='百川新导航样式1' transform='translate(-238.000000, -852.000000)'>
+      <g id='' stroke='none' strokeWidth='1' fill='none' fillRule='evenodd'>
+        <g id='新导航样式1' transform='translate(-238.000000, -852.000000)'>
           <g id='编组-17' transform='translate(238.000000, 852.000000)'>
             <rect
               id='矩形'

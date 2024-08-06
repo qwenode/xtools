@@ -9,7 +9,7 @@ import 'ace-builds/src-noconflict/mode-json';
 import 'ace-builds/src-noconflict/theme-monokai';
 
 const mock =
-  '黄焖鸡\r\n牛肉粉\r\n老乡鸡\r\nKFC\r\n牛腩饭\r\n鳗鱼饭\r\n袁记云饺';
+  '黄焖鸡\r\n牛肉粉\r\n老乡鸡\r\nKFC\r\n牛腩饭\r\n鳗鱼饭\r\n袁记饺';
 
 
 const Eatwhat: React.FC = () => {

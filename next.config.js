@@ -17,7 +17,7 @@ const nextConfig = withPlugins([withTM], {
     return [
       {
         source: '/',
-        destination: '/home',
+        destination: '/',
         permanent: true,
       },
     ];

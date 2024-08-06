@@ -45,15 +45,16 @@ export default function App({
         />
         <title>
           {currentItem?.label
-            ? currentItem?.label + ' - 百川在线工具箱'
-            : '百川云常用工具'}
+            ? currentItem?.label + ' - 在线工具箱'
+            : '常用工具'}
         </title>
         <meta
           name='description'
           property='og:description'
-          content={currentItem?.subTitle || '百川云常用工具'}
+          content={currentItem?.subTitle || '常用工具'}
         />
         <meta name='keywords' content='常用的工具'></meta>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
       </Head>
 
       <ThemeProvider theme={theme}>

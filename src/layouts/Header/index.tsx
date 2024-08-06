@@ -75,8 +75,8 @@ const Header: React.FC<{}> = () => {
         fontWeight={600}
         sx={{ mr: 2, color: 'rgba(11, 37, 98, 1)' }}
       >
-        <Link className='custom-link' href='/home'>
-          百川在线工具箱
+        <Link className='custom-link' href='/'>
+          在线工具箱
         </Link>
       </Typography>
       <Link className='custom-link' href='https://github.com/chaitin/xtools'>

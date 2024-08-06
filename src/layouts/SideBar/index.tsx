@@ -43,7 +43,7 @@ const SideBar: React.FC<{}> = () => {
               setLinkAnchor(true);
               setScrollTop(undefined);
             }}
-            href={'/home/#' + item.name}
+            href={'/#' + item.name}
             style={{ alignSelf: 'stretch' }}
             className='custom-link'
             prefetch
